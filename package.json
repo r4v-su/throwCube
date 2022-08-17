@@ -1,0 +1,21 @@
+{
+  "name": "throwcube",
+  "version": "1.0.0",
+  "description": "simple demonstration of picking random number (1-6) on gamecube made with vanilla js using Canvas element.",
+  "main": "cube.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4v-su/throwCube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r4v-su/throwCube/issues"
+  },
+  "homepage": "https://github.com/r4v-su/throwCube#readme"
+}
